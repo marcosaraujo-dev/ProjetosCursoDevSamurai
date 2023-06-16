@@ -31,18 +31,18 @@ Projetos criados durante cursos realizados na plataforma DevSamurai
 
 <h4>Ping Pong</h4>
 Jogo clássico de ping pong utilizando HTML, Javascript e CSS.
-![[Tela Principal App][product-screenshot]](https://github.com/marcosaraujo-dev/ProjetosCursoDevSamurai/images/01-img_pingpong.PNG)
+![[Tela Principal App][product-screenshot]](https://github.com/marcosaraujo-dev/ProjetosCursoDevSamurai/images/01-img_pingpong.PNG?raw=true)
 
 <h4>Gerador de Senhas</h4>
 Aplicação para geração de senhas, utilizando HTML, Javascript e CSS.
-![[Tela Principal App][product-screenshot]](https://github.com/marcosaraujo-dev/ProjetosCursoDevSamurai/images/02-img-geradorSenha.PNG)
+![[Tela Principal App][product-screenshot]](https://github.com/marcosaraujo-dev/ProjetosCursoDevSamurai/images/02-img-geradorSenha.PNG?raw=true)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Tecnologias
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascriptscript&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <!-- CONTACT -->
