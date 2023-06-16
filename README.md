@@ -31,11 +31,11 @@ Projetos criados durante cursos realizados na plataforma DevSamurai
 
 <h4>Ping Pong</h4>
 Jogo clássico de ping pong utilizando HTML, Javascript e CSS.
-![[Tela Principal App][product-screenshot]](https://github.com/marcosaraujo-dev/ProjetosCursoDevSamurai/images/01-img_pingpong.PNG?raw=true)
+![[Tela Principal App][product-screenshot]](https://github.com/marcosaraujo-dev/ProjetosCursoDevSamurai/blob/master/images/01-img_pingpong.png?raw=true)
 
 <h4>Gerador de Senhas</h4>
 Aplicação para geração de senhas, utilizando HTML, Javascript e CSS.
-![[Tela Principal App][product-screenshot]](https://github.com/marcosaraujo-dev/ProjetosCursoDevSamurai/images/02-img-geradorSenha.PNG?raw=true)
+![[Tela Principal App][product-screenshot]](https://github.com/marcosaraujo-dev/ProjetosCursoDevSamurai/blob/master/images/02-img-geradorSenha.PNG?raw=true)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
